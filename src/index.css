@@ -1,0 +1,23 @@
+body {
+    background: #efefef;
+}
+.container {
+    padding-top: 45px;
+    width: 900px;
+    margin: auto;
+}
+
+.fab-card { 
+    width: 270px;
+    margin:10px 15px;
+    /* display: inline-block; */
+    /* margin-right: 10px; */
+    /* margin-bottom: 20px; */
+}
+
+.fab-card-container {
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
